@@ -4,7 +4,7 @@
 # <bitbar.author>Ian Knighton</bitbar.author>
 # <bitbar.author.github>IanKnighton</bitbar.author.github>
 # <bitbar.desc>Provides quick access to information on pods and nodes in your kubernetes cluster.<bitbar.desc>
-# <bitbar.image>https://github.com/IanKnighton/bitbar-kubectl/blob/main/bitbar-kubectl.png?raw=true</bitbar.image>
+# <bitbar.image>https://stknightondev.blob.core.windows.net/images/bitbar-kubectl.png</bitbar.image>
 # <bitbar.dependencies>kubectl</bitbar.dependencies>
 # <bitbar.abouturl>https://github.com/IanKnighton/bitbar-kubectl</bitbar.abouturl>
 
